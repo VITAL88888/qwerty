@@ -55,6 +55,6 @@ public class Tank {
     }
 
     public void printPosition() {
-        System.out.println(String.format("The Tank is at %d, %d now.", x, y));
+        System.out.println(String.format("The TANK is at %d, %d now.", x, y));
     }
 }
